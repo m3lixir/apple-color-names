@@ -1,25 +1,25 @@
-# Apple News Color Name Visualizer
+# Apple Color Names Visualizer
 
 An interactive web tool that visualizes the color names supported by [Apple News Format](https://developer.apple.com/documentation/applenews/supported-color-names). Each color is displayed with a tile, its name, and its hexadecimal (hex) value. Users can click to copy the name or hex value, simplifying the workflow for developers and designers.
 
 ## Features
 
-- **Comprehensive Visualization**: Displays all Apple News-supported color names with their respective color swatches and hex values.
+- **Comprehensive Visualization**: Displays all Apple-supported color names with their respective color swatches and hex values.
 - **Click-to-Copy**: Effortlessly copy color names or hex values by clicking on them, making integration into your projects seamless.
 - **User-Friendly Interface**: A clean and responsive design ensures an enjoyable experience on both desktop and mobile devices.
 - **Dynamic Grid**: Color tiles are dynamically generated, ensuring flexibility for future updates.
 
 ## Live Demo
 
-Check out the live version of the tool here: [Apple News Color Name Visualizer](https://melisasavich.com/apple-supported-color-names/)
+Check out the live version of the tool here: [Apple Color Names Visualizer](https://melisasavich.com/apple-supported-color-names/)
 
 ## GitHub Repository
 
-You can find the source code on GitHub: [GitHub Repository](https://github.com/m3lixir/apple-supported-color-names)
+You can find the source code on GitHub: [GitHub Repository](https://github.com/m3lixir/apple-color-names)
 
 ## Screenshot
 
-![Screenshot of the Apple News Color Name Visualizer](screenshot.png)
+![Screenshot of the Apple Color Names Visualizer](screenshot.png)
 
 ## Getting Started
 
@@ -30,15 +30,15 @@ You can find the source code on GitHub: [GitHub Repository](https://github.com/m
 ### Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/m3lixir/apple-supported-color-names.git
+   ```bash
+   git clone https://github.com/m3lixir/apple-color-names.git
    ```
 2. Navigate to the project folder:
-   ```
-   cd apple-supported-color-names
+   ```bash
+   cd apple-color-names
    ```
 3. Open the `index.html` file in your preferred browser:
-   ```
+   ```bash
    open index.html
    ```
 
