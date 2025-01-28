@@ -1,3 +1,5 @@
+![apple-color-names](https://socialify.git.ci/m3lixir/apple-color-names/image?description=1&language=1&pattern=Charlie+Brown&theme=Auto)
+
 # Apple Color Names Visualizer
 
 An interactive web tool that visualizes the color names supported by [Apple News Format](https://developer.apple.com/documentation/applenews/supported-color-names). Each color is displayed with a tile, its name, and its hexadecimal (hex) value. Users can click to copy the name or hex value, simplifying the workflow for developers and designers.
